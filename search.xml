@@ -4,11 +4,38 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2025/12/15/test/"/>
+      <url>/2025/12/15/test/</url>
+      
+        <content type="html"><![CDATA[<p>我有一说一，他这个分类页面真的不好看</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 新手上路 </category>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> post </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2025/12/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2025/12/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<hr><h3 id="2025年12月15日15-19-48"><a href="#2025年12月15日15-19-48" class="headerlink" title="2025年12月15日15:19:48"></a>2025年12月15日15:19:48</h3><p>我日了 怎么搞了一上午还是没办法部署啊</p><p><img src="/image/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/1765783396257.png" alt="1765783396257"></p><p>明明之前都没问题的…    白搞一个周末了  还没复习  有点崩溃</p><hr><h3 id="2025年12月15日15-56-07"><a href="#2025年12月15日15-56-07" class="headerlink" title="2025年12月15日15:56:07"></a>2025年12月15日15:56:07</h3><p>终于成功了，把http位置改成ssh就好了！</p><p>真不能再搞这b博客了，再搞下去真得挂科</p><p>别玩了！今天把数电复习一下行不</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="2025年12月15日-15-19-48"><a href="#2025年12月15日-15-19-48" class="headerlink" title="2025年12月15日 15:19:48"></a>2025年12月15日 15:19:48</h2><p>我日了 怎么搞了一上午还是没办法部署啊</p><p>明明之前都没问题的…    白搞一个周末了  还没复习  有点崩溃</p><hr><h2 id="2025年12月15日-15-56-07"><a href="#2025年12月15日-15-56-07" class="headerlink" title="2025年12月15日 15:56:07"></a>2025年12月15日 15:56:07</h2><p>终于成功了，把http位置改成ssh就好了！</p><p>真不能再搞这b博客了，再搞下去真得挂科</p><p>别玩了！今天把数电复习一下行不</p><hr><h2 id="2025年12月15日-16-33-10"><a href="#2025年12月15日-16-33-10" class="headerlink" title="2025年12月15日 16:33:10"></a>2025年12月15日 16:33:10</h2><p>额…又搞到现在 网站跳转还没搞好 toc颜色也有点问题</p><p>晚上学吧嘻嘻</p>]]></content>
       
       
       <categories>
